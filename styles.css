@@ -4,7 +4,7 @@ body {
     background-color: #121212;
     color: #ffffff;
     font-family: Arial, sans-serif;
-    overflow-x: hidden; /* Prevent horizontal scrollbar */
+    overflow-x: hidden;
 }
 
 .main-header {
@@ -124,7 +124,7 @@ body {
 }
 
 .intro i {
-    font-size: 200px; /* Larger font size for the arrow */
+    font-size: 200px;
     margin-top: 40px;
 }
 
