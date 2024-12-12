@@ -19,6 +19,7 @@ body {
     position: absolute;
     bottom: 0px;
     vertical-align: text-bottom;
+    margin-top: auto;
 }
 
 .menu-container {
