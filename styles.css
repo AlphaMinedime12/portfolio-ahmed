@@ -16,7 +16,8 @@ body {
 .footer {
     text-align: center;
     padding: 10px 0;
-    vertical-align: bottom;
+    position: absolute;
+    bottom: 0px;
 }
 
 .menu-container {
