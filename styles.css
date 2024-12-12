@@ -164,3 +164,17 @@ html, body {
     margin-top: 80px;
     font-size: 40px;
 }
+
+.skills {
+    text-align: center;
+    margin: 30px auto;
+    padding: 20px;
+    font-size: 1.5em;
+    background-color: #282828;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    opacity: 0;
+    transition: opacity 1s ease, transform 1s ease;
+}
