@@ -12,10 +12,6 @@ html, body {
 
 .main-content {
     flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .main-header {
@@ -28,7 +24,6 @@ html, body {
     text-align: center;
     padding: 10px 0;
     margin-top: auto;
-    width: 100%; /* Ensure the footer spans the full width */
 }
 
 .menu-container {
